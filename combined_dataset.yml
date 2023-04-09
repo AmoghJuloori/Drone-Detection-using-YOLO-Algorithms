@@ -1,0 +1,5 @@
+train: ../combined_dataset/images/train/
+val: ../combined_dataset/images/val/
+
+nc: 3
+names: ['drone','bird','nc']
